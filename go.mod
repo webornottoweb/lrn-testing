@@ -1,3 +1,3 @@
-module github.com/wontw/lrn-testing
+module github.com/webornottoweb/lrn-testing
 
 go 1.14
